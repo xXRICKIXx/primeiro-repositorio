@@ -1,2 +1,2 @@
-alert("Olá mundo!")
+alert("Olá!")
 alert("Last dance")
